@@ -28,7 +28,7 @@ This project showcases a responsive webpage layout for the CRF300L Rally Motorcy
 ---
 
 ## Revision
-**Revision Date:** 2 10, 2001  
+**Revision Date:** 2 10, 2025  
 **Description of Changes:**  
 1. Refined CSS for testimonial and footer sections.
 2. Added Specs Section.  
